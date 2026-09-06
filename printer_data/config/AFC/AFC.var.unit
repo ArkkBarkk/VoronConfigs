@@ -28,7 +28,7 @@
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled",
-            "dist_hub": 142.72,
+            "dist_hub": 155.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
         },
@@ -60,7 +60,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 70.92,
+            "dist_hub": 80.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane2_prep,lane2_load"
         },
@@ -92,7 +92,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 71.26,
+            "dist_hub": 90.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane3_prep,lane3_load"
         },
@@ -124,7 +124,7 @@
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
-            "dist_hub": 131.15,
+            "dist_hub": 145.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane4_prep,lane4_load"
         }
